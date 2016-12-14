@@ -1,2 +1,0 @@
-# Plugins
-Terraria server plugins.
